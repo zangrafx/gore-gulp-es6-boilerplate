@@ -1,0 +1,13 @@
+{
+  'parser': 'babel-eslint',
+  'extends': 'airbnb',
+  'plugins': [
+    'react'
+  ],
+  'rules': {
+    'func-names': 0,
+    'import/no-unresolved': 0,
+    'prefer-arrow-callback': 0,
+    'strict': 0,
+  }
+}

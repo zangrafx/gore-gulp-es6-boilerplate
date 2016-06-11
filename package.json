@@ -1,0 +1,25 @@
+{
+  "author": "zangrafx <zangrafx@gmail.com>",
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  },
+  "description": "gore-gulp-es6-boileprlate",
+  "devDependencies": {
+    "gore-gulp": "0.13.1",
+    "gulp": "3.9.1"
+  },
+  "directories": {
+    "dist": "./dist",
+    "lib": "./src"
+  },
+  "engines": {
+    "node": ">=0.12"
+  },
+  "main": "src",
+  "name": "gore-gulp-es6-boileprlate",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "version": "0.0.0"
+}
