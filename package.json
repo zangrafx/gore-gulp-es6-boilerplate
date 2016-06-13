@@ -6,7 +6,7 @@
   },
   "description": "gore-gulp-es6-boileprlate",
   "devDependencies": {
-    "gore-gulp": "0.13.1",
+    "gore-gulp": "0.14.3",
     "gulp": "3.9.1"
   },
   "directories": {

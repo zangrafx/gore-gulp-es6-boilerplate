@@ -11,4 +11,6 @@
 const gg = require('gore-gulp');
 const gulp = require('gulp');
 
-gg(__dirname).setup(gulp);
+const gore = gg({
+  baseDir: __dirname,
+}).setup(gulp);
